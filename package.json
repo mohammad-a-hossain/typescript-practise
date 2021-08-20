@@ -1,5 +1,23 @@
 {
-  "dependencies": {
-    "typescript": "^4.3.5"
+  "name": "typescript-practise",
+  "version": "1.0.0",
+  "description": "yarn start\r # practicing typeScript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammad-a-hossain/typescript-practise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammad-a-hossain/typescript-practise/issues"
+  },
+  "homepage": "https://github.com/mohammad-a-hossain/typescript-practise#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
   }
 }
