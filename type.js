@@ -4,3 +4,5 @@
 2 string 'hi' "hi" `ji`
 3 boolean true, false // no truthy or falsy value
 4 object 
+5 array
+6 tuples // fixed length and fixed type array

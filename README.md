@@ -1,5 +1,7 @@
 npm start
 # practicing typeScript
+-- learning tech by maximilian and sumit shaha
+---
 ** start point  ** 
 
 - npm init
