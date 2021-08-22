@@ -6,3 +6,5 @@
 4 object 
 5 array
 6 tuples // fixed length and fixed type array
+7 enum 
+8 any * //any kind of value no specifice type or assingment
