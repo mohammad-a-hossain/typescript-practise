@@ -8,3 +8,5 @@
 6 tuples // fixed length and fixed type array
 7 enum 
 8 any * //any kind of value no specifice type or assingment
+9 union 
+10 

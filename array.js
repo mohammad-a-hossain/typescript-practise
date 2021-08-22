@@ -1,3 +1,4 @@
+"use strict";
 var person = {
     name: 'abu',
     age: 33,
