@@ -16,18 +16,16 @@
 /* console.log(person.role[1]) */
 /* --------------------------------------------------------------- */
 /* ------enum----------- */
-var Role;
-(function (Role) {
-    Role[Role["ADMIN"] = 0] = "ADMIN";
-    Role[Role["USER"] = 1] = "USER";
-    Role[Role["AUTHOR"] = 2] = "AUTHOR";
-})(Role || (Role = {}));
-var person = {
-    name: 'abu',
-    age: 33,
-    hobbies: ['fishing', 'running', 'fighting'],
-    role: Role.ADMIN
-};
-if (person.role === Role.ADMIN) {
-    console.log('this is admin');
+/* enum Role {ADMIN,USER,AUTHOR}
+
+const person={
+    name:'abu',
+    age:33,
+    hobbies:['fishing','running','fighting'],
+    role:Role.ADMIN
 }
+
+if(person.role === Role.ADMIN){
+    console.log('this is admin')
+}
+ */ 

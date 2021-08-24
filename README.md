@@ -10,5 +10,6 @@ npm start
 ---
 - watch mode typescript will recompile *** tsc --init will make tsc configue file
 - watch mode tsc -w // it will watch whole code like nodemon
+- type script get error before compile 
 
 

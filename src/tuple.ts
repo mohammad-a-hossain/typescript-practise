@@ -17,7 +17,7 @@
 /* --------------------------------------------------------------- */
 
 /* ------enum----------- */
-enum Role {ADMIN,USER,AUTHOR}
+/* enum Role {ADMIN,USER,AUTHOR}
 
 const person={
     name:'abu',
@@ -29,3 +29,4 @@ const person={
 if(person.role === Role.ADMIN){
     console.log('this is admin')
 }
+ */
