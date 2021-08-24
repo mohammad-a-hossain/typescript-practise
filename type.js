@@ -9,4 +9,7 @@
 7 enum 
 8 any * //any kind of value no specifice type or assingment
 9 union 
-10 
+
+
+- solving type coartion
+- runtime error > compilation eror
