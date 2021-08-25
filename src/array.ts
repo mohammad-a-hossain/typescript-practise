@@ -16,4 +16,21 @@ for(const hobbu of man.hobbies){
 }
 /* ----------- */
 
+let ab :(string | number)[] =[] // union type
+
+ab.push('suhle')
+
+let bc : string | number
+bc=('sss')
+bc=33
+
+
+/* ----------- */
+
+//let c:object //
+let c:{name:string,age:number}
+c={
+    name:'suhell',age:33
+}
+
 
