@@ -19,7 +19,10 @@ for(const hobbu of man.hobbies){
 let ab :(string | number)[] =[] // union type
 
 ab.push('suhle')
+ab.push('jony')
+ab.push(333)
 
+console.log(ab)
 let bc : string | number
 bc=('sss')
 bc=33
