@@ -30,3 +30,7 @@ if(person.role === Role.ADMIN){
     console.log('this is admin')
 }
  */
+
+ /* -------another example-========================= */
+
+ 

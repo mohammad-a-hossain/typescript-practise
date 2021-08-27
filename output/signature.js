@@ -7,9 +7,9 @@ let add:(x:number,y:number)=>number
 console.log('signature');
 // this function signature tell the declaration of a function signature what type ??
 // this fun take number input and return a number option as string
-var calculation;
+let calculation;
 // now implement the signature
-calculation = function (a, b, c) {
+calculation = (a, b, c) => {
     if (c === "add") {
         return a + b;
     }
